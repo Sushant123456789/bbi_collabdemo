@@ -4,7 +4,7 @@ public class Person {
 	static String name;
 	
 	Person(){
-		this.name="Kalyan";
+		this.name="Kalyan mazumder";
 	}
 		public static void main(String[] args) {
 
