@@ -1,7 +1,7 @@
 
 public class Person {
 
-	String name;
+	static String name;
 	
 	Person(){
 		this.name="Kalyan";
@@ -9,7 +9,14 @@ public class Person {
 		public static void main(String[] args) {
 
 			System.out.println(name);
-			
+		
+
+		/*G:\RISHI\bbt_pro\bbi_collabdemo>javac Person.java
+
+          G:\RISHI\bbt_pro\bbi_collabdemo>java Person
+                null	
+
+                */ 
 		}
 
 }
