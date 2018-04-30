@@ -8,8 +8,11 @@ public class Person {
 	}
 		public static void main(String[] args) {
 
+			Person p = new Person ();
 			System.out.println(name);
 		
+
+
 
 		/*G:\RISHI\bbt_pro\bbi_collabdemo>javac Person.java
 
