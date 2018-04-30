@@ -17,7 +17,7 @@ public class Person {
 		/*G:\RISHI\bbt_pro\bbi_collabdemo>javac Person.java
 
           G:\RISHI\bbt_pro\bbi_collabdemo>java Person
-                null	
+               Kalyan	
 
                 */ 
 		}
